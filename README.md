@@ -2,7 +2,7 @@
 
 ## Description
 A simple Python desktop app for monitoring the stock market and the prices of individual stocks in the user's posession.
-Uses data from ![stooq](https://stooq.com).
+Uses data from [stooq](https://stooq.com).
 This app does not access your account on any broker websites.
 The user has to manually import all the changes he does online.
 
@@ -10,7 +10,7 @@ The user has to manually import all the changes he does online.
 - monitoring the stock market
 - keeping track of your shares
 - calculating the gains on individual shares and on groups of shares
-- currently supported markets (all the market data available on ![stooq](https://stooq.com))
+- currently supported markets (all the market data available on [stooq](https://stooq.com))
     - US
     - PL
     - HU 
@@ -39,25 +39,24 @@ This process requires many queries sent to stooq, so this may take a while.
 There is a daily limit of queries from stooq.
 If the user surpasses the limit, the last recorded summary will be displayed.
 
-![](https://media.discordapp.net/attachments/420283310833664002/938099914498539590/unknown.png) //summary
-
+![](https://media.discordapp.net/attachments/420283310833664002/938099914498539590/unknown.png)
 ### Transaction history
 Displays all transactions recorded within the app.
 
-![](https://media.discordapp.net/attachments/420283310833664002/938099944479404082/unknown.png) //history
+![](https://media.discordapp.net/attachments/420283310833664002/938099944479404082/unknown.png)
 
 ### Price history
 Displays the price history of the selected stock.
 
-![](https://media.discordapp.net/attachments/420283310833664002/938100165766676540/unknown.png) //price
+![](https://media.discordapp.net/attachments/420283310833664002/938100165766676540/unknown.png)
 
 ### Account
 Balances in all supported currencies.
 Based on the buying and selling prices.
 
-![](https://media.discordapp.net/attachments/420283310833664002/938100231738900570/unknown.png) //acc
+![](https://media.discordapp.net/attachments/420283310833664002/938100231738900570/unknown.png)
 
 ### Settings
 Theme settings.
 
-![](https://media.discordapp.net/attachments/420283310833664002/938100283903459379/unknown.png) //theme
+![](https://media.discordapp.net/attachments/420283310833664002/938100283903459379/unknown.png)
